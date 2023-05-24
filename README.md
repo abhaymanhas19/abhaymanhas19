@@ -36,4 +36,5 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhaymanhas19&show_icons=true&locale=en" alt="abhaymanhas19" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaymanhas19&show_icons=true&locale=en&layout=compact" alt="abhaymanhas19" /></p>
 <br><br>
+<hr>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaymanhas19&" alt="abhaymanhas19" /></p>
