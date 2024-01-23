@@ -14,7 +14,7 @@
 - ⚡ Fun fact **Don't waste time.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">manhasabhay000@gmail.com
+<p align="left">abhayramgarhia131@gmail.com
 </p>
 <hr>
 <h3 align="left">Languages:</h3>
